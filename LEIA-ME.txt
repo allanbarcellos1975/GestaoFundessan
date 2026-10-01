@@ -1,0 +1,27 @@
+SISTEMA GESTAO FUNDESSAN - BASE LIMPA
+
+1. Extraia o conteudo deste ZIP diretamente em:
+   C:\Projetos\GestaoFundessan
+
+2. Preserve os arquivos:
+   ABRIR FUNDESSAN.bat
+   ATUALIZAR FUNDESSAN.bat
+
+3. Execute:
+   INSTALAR FUNDESSAN.bat
+
+4. Quando a instalacao terminar com sucesso, execute:
+   ABRIR FUNDESSAN.bat
+
+5. Acesse:
+   http://localhost:3000
+
+Esta base possui somente:
+- Login
+- Recuperacao de senha
+- Alteracao de senha
+- Protecao de rotas
+- Topbar
+- Sidebar
+- Dashboard inicial
+- Conexao com o Supabase do Sistema Gestao Fundessan
